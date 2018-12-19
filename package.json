@@ -1,6 +1,6 @@
 {
   "name": "bootstrap232",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An updated version of Bootstrap 2.3.2 with support for jQuery 3.x",
   "repository": {
     "type": "git",
