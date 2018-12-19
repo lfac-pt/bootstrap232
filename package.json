@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap232",
+  "name": "@lfac/bootstrap232",
   "version": "1.0.0",
   "description": "An updated version of Bootstrap 2.3.2 with support for jQuery 3.x",
   "repository": {
